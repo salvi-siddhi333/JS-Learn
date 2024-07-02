@@ -17,7 +17,7 @@ ___
 <br/><br/>
   <img width="334" alt="image" src="https://github.com/salvi-siddhi333/JS-Learn/assets/67642750/ca51438c-7f6e-4197-9fe3-bc2733895fc1">
 <br/><br/>
-  <img width="358" alt="image" src="https://github.com/salvi-siddhi333/JS-Learn/assets/67642750/a55605db-9b95-444d-be30-2c69e4aaffd9">
+  <img width="358" alt="image" src="https://github.com/salvi-siddhi333/JS-Learn/assets/67642750/6e7e479b-cb1a-4d28-832e-b6bb5b9e2296">
 <br/><br/>
   <img width="241" alt="image" src="https://github.com/salvi-siddhi333/JS-Learn/assets/67642750/2dcb8a6c-ce10-44d6-9a3f-a9e9c1a182b9">
 
