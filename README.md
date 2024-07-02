@@ -20,3 +20,14 @@ ___
   <img width="358" alt="image" src="https://github.com/salvi-siddhi333/JS-Learn/assets/67642750/a55605db-9b95-444d-be30-2c69e4aaffd9">
 <br/><br/>
   <img width="241" alt="image" src="https://github.com/salvi-siddhi333/JS-Learn/assets/67642750/2dcb8a6c-ce10-44d6-9a3f-a9e9c1a182b9">
+
+  <img width="255" alt="image" src="https://github.com/salvi-siddhi333/JS-Learn/assets/67642750/4ab6f895-e941-4399-be7e-2f092b06a9ef">
+
+  <img width="265" alt="image" src="https://github.com/salvi-siddhi333/JS-Learn/assets/67642750/ea9ae2d2-40dd-4b02-b63d-a43d51a3e35f">
+
+  <img width="252" alt="image" src="https://github.com/salvi-siddhi333/JS-Learn/assets/67642750/1d5a4c8e-356d-4157-8e78-8dcafeaade63">
+
+  <img width="381" alt="image" src="https://github.com/salvi-siddhi333/JS-Learn/assets/67642750/b4426f0d-0cc2-4672-a6fb-817469383a42">
+
+
+
