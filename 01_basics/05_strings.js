@@ -34,3 +34,5 @@ console.log(url.replace('%20', '-'))
 console.log(url.includes('samarth'))
 
 console.log(gameName.split('-'));
+
+// **** TRy colsole.log(name) which will help with the string methods
