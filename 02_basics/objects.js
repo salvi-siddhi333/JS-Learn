@@ -103,4 +103,21 @@ const dbUser = [
 // console.log(Object.keys(user));
 // console.log(Object.values(user));
 // console.log(Object.entries(user));
-console.log(user.hasOwnProperty('age'));
+// console.log(user.hasOwnProperty('age'));
+
+
+// _________De-structured
+const course = {
+    name: "JS",
+    cost: 999,
+    instructor: "HC"
+}
+
+// console.log(course.instructor)
+
+const{instructor} = course
+console.log(instructor);
+
+// ________API
+// JSON Format ---> Butify json data
+// RandomUserGenerator ---> API generator
