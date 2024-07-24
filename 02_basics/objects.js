@@ -77,4 +77,30 @@ const obj333 = Object.assign({}, obj1, obj2)//{} helps taking all further object
 // console.log(obj333);
 //combining by spread
 const obj3 = {...obj1, ...obj2}
-console.log(obj3);
+// console.log(obj3);
+
+
+
+// ______________Database_basic basic
+const dbUser = [
+    {
+        id: 1,
+        dbUname: "a"
+    },
+    {
+        id: 1,
+        dbUname: "a"
+    },
+    {
+        id: 1,
+        dbUname: "a"
+    },
+]
+// console.log(dbUser[1].name)
+
+// _______________get all keys
+// console.log(user);
+// console.log(Object.keys(user));
+// console.log(Object.values(user));
+// console.log(Object.entries(user));
+console.log(user.hasOwnProperty('age'));
