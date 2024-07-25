@@ -30,6 +30,37 @@ function loginUserMsg(name){
     }
     return `${name} just logged in`
 }
+// console.log(loginUserMsg("Samarth"))
+// console.log(loginUserMsg())
+// _________________________________________________________________________
 
-console.log(loginUserMsg("Samarth"))
-console.log(loginUserMsg())
+function calculateCartPrice(...nums){ //rest operator. It is also called as spread operator(depends od its usage)
+    return nums
+}
+// console.log(calculateCartPrice(100,200,300,400,500));
+// _________________________________________________________________________
+
+const user = {
+    uname: "Sam",
+    price: 999
+}
+
+function handleObjectFunction(someObject){
+    console.log(`User name is ${someObject.uname} and its course price is ${someObject.price}`);
+}
+// handleObjectFunction(user)
+
+//calling function by passing object
+// handleObjectFunction({
+//     uname: "Sid",
+//     price: 399
+// })
+
+// arrayHandling
+const myNewArray = [100,200,300]
+function handleObjectFunction(arrayHandling){
+    // return `The 1st position value in array is ${arrayHandling[1]}.`
+    return `The 1st position value in array is ${arrayHandling[1]}.`
+}
+// console.log(handleObjectFunction(myNewArray));
+console.log(handleObjectFunction([400,500,600]));
